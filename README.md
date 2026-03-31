@@ -11,6 +11,8 @@
 
 ## 📌 Overview
 
+https://eleonore-energetic-conqueringly.ngrok-free.dev 
+
 This project builds a **high-performance deep learning system** for detecting **Knee Osteoarthritis severity** from X-ray images.
 
 It combines **multiple CNN architectures** into an **ensemble model** to improve accuracy, generalization, and robustness.
